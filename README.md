@@ -87,6 +87,25 @@
 
 ---
 
+### ♞ Lichess — mi otro tablero
+
+<p align="center">
+<a href="https://lichess.org/@/SergioGDpucp">
+  <img src="https://img.shields.io/badge/Lichess-SergioGDpucp-0f0c29?style=for-the-badge&logo=lichess&logoColor=white" alt="lichess profile"/>
+</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Bullet&query=%24.perfs.bullet.rating&url=https%3A%2F%2Flichess.org%2Fapi%2Fuser%2FSergioGDpucp&color=b892ff&labelColor=0f0c29" alt="bullet rating"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Blitz&query=%24.perfs.blitz.rating&url=https%3A%2F%2Flichess.org%2Fapi%2Fuser%2FSergioGDpucp&color=b892ff&labelColor=0f0c29" alt="blitz rating"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Rapid&query=%24.perfs.rapid.rating&url=https%3A%2F%2Flichess.org%2Fapi%2Fuser%2FSergioGDpucp&color=b892ff&labelColor=0f0c29" alt="rapid rating"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Puzzle&query=%24.perfs.puzzle.rating&url=https%3A%2F%2Flichess.org%2Fapi%2Fuser%2FSergioGDpucp&color=302b63&labelColor=0f0c29" alt="puzzle rating"/>
+</p>
+
+<sub>♟️ Los ratings se actualizan solos en cada carga — vienen directo de la API pública de Lichess.</sub>
+
+---
+
 ### 📊 GitHub Stats — el marcador
 
 <p align="center">
@@ -103,6 +122,7 @@
 <p align="center">
 <a href="mailto:a20223291@pucp.edu.pe"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=b892ff"/></a>
 <a href="https://github.com/SergioAnderson123"><img src="https://img.shields.io/badge/GitHub-302b63?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://lichess.org/@/SergioGDpucp"><img src="https://img.shields.io/badge/Lichess-24243e?style=for-the-badge&logo=lichess&logoColor=white"/></a>
 </p>
 
 <div align="center">
