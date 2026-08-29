@@ -75,7 +75,7 @@
 
 ---
 
-### 🚀 
+### 
 
 ---
 
@@ -106,7 +106,7 @@
 </a>
 </p>
 
-<sub>🎤 Scrobbleado en vivo desde YouTube/YouTube Music vía Last.fm — así que si estoy en pleno modo Ado, se nota aquí.</sub>
+<sub>🎤</sub>
 
 ---
 
@@ -117,7 +117,7 @@
   <img src="https://img.shields.io/github/followers/SergioAnderson123?style=for-the-badge&label=Seguidores&color=b892ff&labelColor=0f0c29" alt="followers"/>
 </p>
 
-<sub>♟️ Nota: los widgets clásicos de github-readme-stats / streak-stats / trophy están caídos por un problema de despliegue en Vercel que afecta a toda la comunidad en 2026 (ver <a href="https://github.com/anuraghazra/github-readme-stats/issues/4737">issue #4737</a>) — por eso este tablero usa badges de shields.io, que sí son estables.</sub>
+<sub>♟️</sub>
 
 - 
 
@@ -132,7 +132,7 @@
 
 <div align="center">
 
-🏫 Pontificia Universidad Católica del Perú (PUCP) &nbsp;|&nbsp; 📍 Lima, Perú
+ Pontificia Universidad Católica del Perú (PUCP) &nbsp;|&nbsp; 📍 Lima, Perú
 
 <sub><i>"Cada línea de código es una jugada; cada despliegue, un jaque mate."</i></sub>
 
