@@ -1,117 +1,145 @@
 <div align="center">
 
-# 👋 Hola, soy Sergio Meneses Ramos
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sergio%20Meneses%20Ramos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Telecom%20Engineer%20%E2%99%9F%20Full%20Stack%20Dev%20%E2%99%9B%20Building%20in%20rhythm&descAlignY=58&descSize=18" width="100%"/>
 
-**Telecommunications Engineering Student @ PUCP · Full Stack Developer · Cloud & CV Enthusiast**
+<a href="https://github.com/SergioAnderson123">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=B892FF&center=true&vCenter=true&width=650&lines=%E2%99%9F+Every+commit+is+a+move+in+the+game;%F0%9F%8E%A4+Coding+with+the+intensity+of+Ado's+vocals;%F0%9F%92%BB+Telecom+%2B+Software+%2B+Computer+Vision;checkmate%3A+deploy+%26+ship" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-meneses-ramos)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a20223291@pucp.edu.pe)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SergioAnderson123)
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SergioAnderson123&label=Profile%20Views&color=b892ff&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/SergioAnderson123?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" alt="followers"/>
+  <img src="https://img.shields.io/badge/status-en%20partida-24243e?style=for-the-badge&logo=lichess&logoColor=white" alt="status"/>
+</p>
+
+---
+
+### ♟️ Sobre mí — mi apertura
+
+```diff
++ Estudiante de Ingeniería de Telecomunicaciones @ PUCP (Lima, Perú)
++ Full Stack Developer | Cloud & Computer Vision Enthusiast
++ Como en el ajedrez, planeo varias jugadas antes de escribir la primera línea
++ Como Ado, prefiero que el resultado hable más fuerte que la cara detrás
+```
+
+- 🔭 **Ahora mismo:** `Reciclame` — plataforma fullstack de gestión de reciclaje
+- 🧪 **Investigando:** 5G + Computer Vision + Impresión 3D para manufactura inteligente
+- 📡 **Enfocado en:** SDN, VoIP, OpenCV, arquitecturas cloud-native
+- 🌱 **Aprendiendo:** Docker Compose, CI/CD con GitHub Actions, AWS
+- 🎧 **Playlist de fondo:** J-Pop / Ado, synthwave y lo-fi para hacer debugging con ritmo
+- ♛ **Dato random:** disfruto pensar el código como una partida — cada función es una jugada, cada bug un jaque que hay que resolver
+
+<div align="center">
+
+`e4` → primera línea de código &nbsp;|&nbsp; `O-O` → refactor seguro &nbsp;|&nbsp; `Qxf7#` → deploy a producción 🎯
 
 </div>
 
 ---
 
-## 🧠 Sobre mí
+### 🛠️ Tech Stack — mi tablero de piezas
 
-Estudiante de Ingeniería de Telecomunicaciones en la **PUCP** (Lima, Perú), apasionado por integrar redes de comunicación con sistemas modernos de software. Construyo desde APIs REST hasta dashboards en tiempo real y sistemas de visión por computadora.
-
-- 🔭 Actualmente trabajando en: **Reciclame** — plataforma fullstack de gestión de reciclaje
-- 🧪 Investigando: Integración de **5G + Computer Vision + 3D Printing** para manufactura inteligente
-- 📡 Enfocado en: SDN, VoIP, OpenCV, y arquitecturas cloud-native
-- 🌱 Aprendiendo: Docker Compose, CI/CD con GitHub Actions, AWS
-
----
-
-## 🛠️ Tech Stack
+<div align="center">
 
 **Redes & Telecomunicaciones**
-
-![SDN](https://img.shields.io/badge/SDN-OpenFlow-blue?style=flat-square)
-![VoIP](https://img.shields.io/badge/VoIP-SIP%2FAsterisk-orange?style=flat-square)
-![5G](https://img.shields.io/badge/5G-NR-purple?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-Network-green?style=flat-square)
+<br/>
+<img src="https://skillicons.dev/icons?i=wireshark" height="42"/>&nbsp;
+<img src="https://img.shields.io/badge/SDN-24243e?style=for-the-badge&logo=cisco&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/VoIP-302b63?style=for-the-badge&logo=voip.ms&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/5G_NR-0f0c29?style=for-the-badge&logo=nokia&logoColor=white"/>
 
 **Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="42"/>
 
 **Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python" height="42"/>
 
 **Computer Vision**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+<br/>
+<img src="https://skillicons.dev/icons?i=opencv,py,numpy" height="42"/>
 
 **Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,github" height="42"/>
 
 **Bases de datos**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-## 🚀 Proyectos Destacados
-
-### ♻️ [Reciclame](https://github.com/Bearserker10029/Reciclame)
-Plataforma fullstack de gestión de reciclaje con Spring Boot, Thymeleaf y PostgreSQL. Incluye módulo de socios, gestión de puntos de acopio y panel administrativo.
-`Java` `Spring Boot` `Thymeleaf` `PostgreSQL` `Docker`
-
-### 🔬 [3D Printing + 5G + Computer Vision](https://github.com/SergioAnderson123/research-3dprint-5g-cv)
-Investigación académica en PUCP que integra visión por computadora (OpenCV) con redes 5G NR para monitoreo inteligente de manufactura aditiva en tiempo real.
-`Python` `OpenCV` `5G NR` `NumPy` `Matplotlib`
-
-### 📦 [PROYECTO-CAP-PI — 3D Printing CV](https://github.com/SergioAnderson123/PROYECTO-CAP-PI-1114---3D-Printing-5G-Computer-Vision)
-Capstone de investigación aplicada: control y análisis visual de impresoras 3D mediante procesamiento de imágenes y comunicación de baja latencia.
-`Python` `OpenCV` `Telecomunicaciones`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergioAnderson123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioAnderson123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SergioAnderson123&theme=tokyonight&hide_border=true)
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="42"/>
 
 </div>
 
 ---
 
-## 📫 Contacto
-
-- 📧 **Email:** a20223291@pucp.edu.pe
-- 🏫 **Universidad:** Pontificia Universidad Católica del Perú (PUCP)
-- 📍 **Ubicación:** Lima, Perú
-
----
+### 🚀 Proyectos Destacados
 
 <div align="center">
 
-*"Connecting networks, building systems, processing the world."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=SergioAnderson123&color=blueviolet&style=flat-square)
+<a href="https://github.com/SergioAnderson123/reciclame">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioAnderson123&repo=reciclame&theme=radical&hide_border=true&bg_color=0f0c29&title_color=b892ff&text_color=e0e0e0" />
+</a>
+<a href="https://github.com/SergioAnderson123/proyecto-sdn">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioAnderson123&repo=proyecto-sdn&theme=radical&hide_border=true&bg_color=0f0c29&title_color=b892ff&text_color=e0e0e0" />
+</a>
 
 </div>
+
+> ♞ **3D Printing + 5G + Computer Vision** — Investigación académica PUCP que integra OpenCV con redes 5G NR para monitoreo inteligente de manufactura aditiva en tiempo real. `Python` `OpenCV` `5G NR` `NumPy` `Matplotlib`
+>
+> ♜ **PROYECTO-CAP-PI** — Capstone de investigación aplicada: control y análisis visual de impresoras 3D mediante procesamiento de imágenes y comunicación de baja latencia. `Python` `OpenCV` `Telecomunicaciones`
+
+---
+
+### 📊 GitHub Stats — el marcador
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SergioAnderson123&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=b892ff&icon_color=b892ff&text_color=e0e0e0&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioAnderson123&theme=radical&hide_border=true&background=0f0c29&ring=b892ff&fire=b892ff&currStreakLabel=b892ff" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioAnderson123&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=b892ff&text_color=e0e0e0" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SergioAnderson123&theme=react-dark&hide_border=true&bg_color=0f0c29&color=b892ff&line=b892ff&point=ffffff" width="90%"/>
+
+</div>
+
+<details>
+<summary align="center">🏆 Trofeos desbloqueados</summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SergioAnderson123&theme=radical&no-frame=true&margin-w=10&row=1" />
+</div>
+</details>
+
+---
+
+### 🐍 Jaque al contribution graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SergioAnderson123/SergioAnderson123/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<sub>⚙️ Esta animación se genera sola cada día con GitHub Actions.</sub>
+
+---
+
+### 📫 Contacto — mi última jugada
+
+<p align="center">
+<a href="mailto:a20223291@pucp.edu.pe"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=b892ff"/></a>
+<a href="https://github.com/SergioAnderson123"><img src="https://img.shields.io/badge/GitHub-302b63?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<div align="center">
+
+🏫 Pontificia Universidad Católica del Perú (PUCP) &nbsp;|&nbsp; 📍 Lima, Perú
+
+<sub><i>"Cada línea de código es una jugada; cada despliegue, un jaque mate."</i></sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
