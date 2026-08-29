@@ -16,7 +16,7 @@
 
 ---
 
-### ♟️ Sobre mí
+### ♟️ Sobre mí — mi apertura
 
 ```diff
 + Estudiante de Ingeniería de Telecomunicaciones @ PUCP (Lima, Perú)
@@ -75,15 +75,7 @@
 
 ---
 
-### 🚀 Proyectos Destacados
-
-> ♜ **[proyecto-sdn](https://github.com/SergioAnderson123/proyecto-sdn)** — Investigación y práctica de Software Defined Networking. `Redes` `SDN`
->
-> ♞ **3D Printing + 5G + Computer Vision** — Investigación académica PUCP que integra OpenCV con redes 5G NR para monitoreo inteligente de manufactura aditiva en tiempo real. `Python` `OpenCV` `5G NR` `NumPy` `Matplotlib`
->
-> ♗ **PROYECTO-CAP-PI** — Capstone de investigación aplicada: control y análisis visual de impresoras 3D mediante procesamiento de imágenes y comunicación de baja latencia. `Python` `OpenCV` `Telecomunicaciones`
->
-> ♙ **Reciclame** — plataforma fullstack de gestión de reciclaje (Spring Boot, Thymeleaf, PostgreSQL): módulo de socios, puntos de acopio y panel administrativo. `Java` `Spring Boot` `PostgreSQL` `Docker`
+### 🚀 
 
 ---
 
@@ -102,7 +94,19 @@
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Puzzle&query=%24.perfs.puzzle.rating&url=https%3A%2F%2Flichess.org%2Fapi%2Fuser%2FSergioGDpucp&color=302b63&labelColor=0f0c29" alt="puzzle rating"/>
 </p>
 
-<sub>.</sub>
+<sub>♟️ Los ratings se actualizan solos en cada carga — vienen directo de la API pública de Lichess.</sub>
+
+---
+
+### 🎧 Ahora escuchando
+
+<p align="center">
+<a href="https://www.last.fm/user/SergioGrunfeld">
+  <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=SergioGrunfeld&theme=Dark" alt="Last.fm recently played"/>
+</a>
+</p>
+
+<sub>🎤 Scrobbleado en vivo desde YouTube/YouTube Music vía Last.fm — así que si estoy en pleno modo Ado, se nota aquí.</sub>
 
 ---
 
@@ -113,9 +117,9 @@
   <img src="https://img.shields.io/github/followers/SergioAnderson123?style=for-the-badge&label=Seguidores&color=b892ff&labelColor=0f0c29" alt="followers"/>
 </p>
 
-<sub>♟️</sub>
+<sub>♟️ Nota: los widgets clásicos de github-readme-stats / streak-stats / trophy están caídos por un problema de despliegue en Vercel que afecta a toda la comunidad en 2026 (ver <a href="https://github.com/anuraghazra/github-readme-stats/issues/4737">issue #4737</a>) — por eso este tablero usa badges de shields.io, que sí son estables.</sub>
 
----
+- 
 
 ### 📫 Contacto — mi última jugada
 
@@ -123,6 +127,7 @@
 <a href="mailto:a20223291@pucp.edu.pe"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=b892ff"/></a>
 <a href="https://github.com/SergioAnderson123"><img src="https://img.shields.io/badge/GitHub-302b63?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://lichess.org/@/SergioGDpucp"><img src="https://img.shields.io/badge/Lichess-24243e?style=for-the-badge&logo=lichess&logoColor=white"/></a>
+<a href="https://www.last.fm/user/SergioGrunfeld"><img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white"/></a>
 </p>
 
 <div align="center">
@@ -133,4 +138,12 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>Proyectos Destacados
+
+> ♜ **[proyecto-sdn](https://github.com/SergioAnderson123/proyecto-sdn)** — Investigación y práctica de Software Defined Networking. `Redes` `SDN`
+>
+> ♞ **3D Printing + 5G + Computer Vision** — Investigación académica PUCP que integra OpenCV con redes 5G NR para monitoreo inteligente de manufactura aditiva en tiempo real. `Python` `OpenCV` `5G NR` `NumPy` `Matplotlib`
+>
+> ♗ **PROYECTO-CAP-PI** — Capstone de investigación aplicada: control y análisis visual de impresoras 3D mediante procesamiento de imágenes y comunicación de baja latencia. `Python` `OpenCV` `Telecomunicaciones`
+>
+> ♙ **Reciclame** — plataforma fullstack de gestión de reciclaje (Spring Boot, Thymeleaf, PostgreSQL): módulo de socios, puntos de acopio y panel administrativo. `Java` `Spring Boot` `PostgreSQL` `Docker`
