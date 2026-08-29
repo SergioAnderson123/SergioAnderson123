@@ -77,53 +77,24 @@
 
 ### 🚀 Proyectos Destacados
 
-<div align="center">
-
-<a href="https://github.com/SergioAnderson123/reciclame">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioAnderson123&repo=reciclame&theme=radical&hide_border=true&bg_color=0f0c29&title_color=b892ff&text_color=e0e0e0" />
-</a>
-<a href="https://github.com/SergioAnderson123/proyecto-sdn">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioAnderson123&repo=proyecto-sdn&theme=radical&hide_border=true&bg_color=0f0c29&title_color=b892ff&text_color=e0e0e0" />
-</a>
-
-</div>
-
+> ♜ **[proyecto-sdn](https://github.com/SergioAnderson123/proyecto-sdn)** — Investigación y práctica de Software Defined Networking. `Redes` `SDN`
+>
 > ♞ **3D Printing + 5G + Computer Vision** — Investigación académica PUCP que integra OpenCV con redes 5G NR para monitoreo inteligente de manufactura aditiva en tiempo real. `Python` `OpenCV` `5G NR` `NumPy` `Matplotlib`
 >
-> ♜ **PROYECTO-CAP-PI** — Capstone de investigación aplicada: control y análisis visual de impresoras 3D mediante procesamiento de imágenes y comunicación de baja latencia. `Python` `OpenCV` `Telecomunicaciones`
+> ♗ **PROYECTO-CAP-PI** — Capstone de investigación aplicada: control y análisis visual de impresoras 3D mediante procesamiento de imágenes y comunicación de baja latencia. `Python` `OpenCV` `Telecomunicaciones`
+>
+> ♙ **Reciclame** — plataforma fullstack de gestión de reciclaje (Spring Boot, Thymeleaf, PostgreSQL): módulo de socios, puntos de acopio y panel administrativo. `Java` `Spring Boot` `PostgreSQL` `Docker`
 
 ---
 
 ### 📊 GitHub Stats — el marcador
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/github/stars/SergioAnderson123?style=for-the-badge&label=Estrellas&color=b892ff&labelColor=0f0c29" alt="stars"/>
+  <img src="https://img.shields.io/github/followers/SergioAnderson123?style=for-the-badge&label=Seguidores&color=b892ff&labelColor=0f0c29" alt="followers"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SergioAnderson123&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=b892ff&icon_color=b892ff&text_color=e0e0e0&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioAnderson123&theme=radical&hide_border=true&background=0f0c29&ring=b892ff&fire=b892ff&currStreakLabel=b892ff" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioAnderson123&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=b892ff&text_color=e0e0e0" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SergioAnderson123&theme=react-dark&hide_border=true&bg_color=0f0c29&color=b892ff&line=b892ff&point=ffffff" width="90%"/>
-
-</div>
-
-<details>
-<summary align="center">🏆 Trofeos desbloqueados</summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SergioAnderson123&theme=radical&no-frame=true&margin-w=10&row=1" />
-</div>
-</details>
-
----
-
-### 🐍 Jaque al contribution graph
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/SergioAnderson123/SergioAnderson123/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<sub>⚙️ Esta animación se genera sola cada día con GitHub Actions.</sub>
+<sub>♟️ Nota: los widgets clásicos de github-readme-stats / streak-stats / trophy están caídos por un problema de despliegue en Vercel que afecta a toda la comunidad en 2026 (ver <a href="https://github.com/anuraghazra/github-readme-stats/issues/4737">issue #4737</a>) — por eso este tablero usa badges de shields.io, que sí son estables.</sub>
 
 ---
 
