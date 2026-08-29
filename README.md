@@ -16,7 +16,7 @@
 
 ---
 
-### ♟️ Sobre mí — mi apertura
+### ♟️ Sobre mí
 
 ```diff
 + Estudiante de Ingeniería de Telecomunicaciones @ PUCP (Lima, Perú)
