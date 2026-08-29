@@ -102,7 +102,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Puzzle&query=%24.perfs.puzzle.rating&url=https%3A%2F%2Flichess.org%2Fapi%2Fuser%2FSergioGDpucp&color=302b63&labelColor=0f0c29" alt="puzzle rating"/>
 </p>
 
-<sub>♟️ Los ratings se actualizan solos en cada carga — vienen directo de la API pública de Lichess.</sub>
+<sub>.</sub>
 
 ---
 
